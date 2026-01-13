@@ -1,1 +1,2 @@
-# Varying-LED-brightness-with-arduino
+# Project Three
+# 
